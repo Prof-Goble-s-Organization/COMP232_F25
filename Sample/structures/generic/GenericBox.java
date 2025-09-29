@@ -58,10 +58,10 @@ public class GenericBox<T> {
          * 
          * uncomment to see error
          */
-        //stringBox.setValue(new Double("3.17"));
-        //doubleBox.setValue("999.99");
+        // stringBox.setValue(new Double("3.17"));
+        // doubleBox.setValue("999.99");
 
-        //Double dbl2 = (Double) stringBox.getValue();
-        //String str2 = (String) doubleBox.getValue();
+        // Double dbl2 = (Double) stringBox.getValue();
+        // String str2 = (String) doubleBox.getValue();
     }
 }
